@@ -16,8 +16,6 @@ Personal Information which we collect
 
 The use of Personal Information which we collect
 
-Sharing of Personal Information which we collect
-
 Retention of Personal Information
 
 Access and correction of Personal Information
@@ -40,35 +38,7 @@ How to contact us
 
 **PERSONAL INFORMATION WHICH WE COLLECT**
 
-We collect information which identifies or can be used to identify, contact, or locate the person or device to whom that information pertains (&quot;Personal Information&quot;). Personal Information includes, but not limited to, name, address, date of birth, occupation, phone number, e-mail address, bank account and credit-card details, gender, identification (including KTP, SIM, or Passport) or other government issued identifier, vehicle information, photo, nationality, phone number of our users and non-users in your mobile phonebook, health data, fin
-
-\\\\ancial related information, and biometric information (including but not limited to facial recognition). Additionally, to the extent other information, including a personal profile, and/or unique identifier, is associated or combined with Personal Information, then that information is also Personal Information. The Personal Information which we collect may be provided by you directly or by third parties (for example: when you register or use the Application, when you contact our customer services, or you otherwise provide Personal Information to us). We may collect information in various forms and purposes (including purposes permitted under applicable law).
-
-Information obtained from you or from your mobile device directly
-
-When you register and create an account with us using the Application you have to provide to us certain Personal Information, including your name, physical address, e-mail address and your phone number. If you are using the Application as a service provider, you have to provide us with additional Personal Information as part of the service provider onboarding process. This would include details of your vehicle (licenses, approvals, and other authorizations for you to operate the vehicle and to provide the transportation services), your insurance policy, and your bank account.
-
-When you use the Application, you have to provide us with relevant information as may reasonably be required by us in order for the Application to work, for example:
-
-If you are using the Application as a user, you will need to provide us with information as to the type of service you seek, and details as to the pick-up and/or delivery.
-
-If you are using the Application as a service provider, in order for the Application to work, you will need to provide us with the information on the services you are able to accept orders for at the time, and details as to your current, and after an order for a service placed by a user is accepted by you as the service provider, you may need to provide us with other data that we need to manage the Application and ecosystem, and to monitor overall usage of the Application.
-
-Whenever you use the Application or visit our website, we may collect certain technical data concerning your usage such as, internet protocol (IP) address, information as web pages previously or subsequently viewed, duration of every visit/session, the internet device identity (ID) or media access control address, mobile advertising ID and other device information including information regarding the manufacturer, model and operating system of the device that you use to access the Application or our website.
-
-Whenever you use the Application or visit our website, certain information may also be collected on an automated basis using cookies. Cookies are small application files stored on your computer or mobile device. We use cookies to track user activity to enhance user interface and experience. Most mobile devices and internet browsers support the use of cookies; but you may adjust the settings on your mobile device or internet browser to reject several types of certain cookies or certain specific cookies. Your mobile device and/or browser would also enable you to delete at any time whatever cookies have previously been stored. However, doing so may affect the functionalities available on the Application or our website.
-
-Whenever you use the Application through your mobile device, we will track and collect your geo-location information in real-time. In some cases, you will be prompted or required to activate the Global Positioning System (GPS) on your mobile device to enable us to give you a better experience in using the Application (for example, to give you information as to how close a service provider is to you). You can always choose to disable the geo-location tracking information on your mobile device temporarily. However, this can affect the functionalities available on the Application.
-
-We may also collect your Personal Information from third parties (including our agents, vendors, suppliers, contractors, partners and any others who provide services to us, who collect your Personal Information and/or perform functions on our behalf, or whom we collaborate with). In such cases, we will only collect your Personal Information for or in connection with the purposes for which such third parties are engaged or the purposes of our collaboration with such third parties (as the case may be).
-
-Information about third parties you provide to us
-
-You may provide us with Personal Information relating to other third-party individuals (including Personal Information relating to your spouse, family members, friends, or other individuals). you will, of course, need their consent to do so – see &quot;Acknowledgement and Consent&quot;, below, for further information.
-
-We do not mandate or endorse, nor prohibit, the installation or use of in-vehicle recording devices in any Vehicles. Where such devices are installed and used in any Vehicles, we do not collect any Personal Information from any in-vehicle recordings by such devices, and any collection of Personal Information from such in-vehicle recordings is not being done on our behalf. The collection of Personal Information from such in-vehicle recordings is solely at the discretion of the service provider. We have no control over such collection of Personal Information by the service provider and any subsequent use or disclosure by the service provider of the Personal Information so collected. Where you are a service provider and choose to install and use such in-vehicle recording devices in your Vehicle, it is your sole responsibility to notify the user of the same. Where you are a user and you have any objection to the use of in-vehicle recording devices within the Vehicle of any service provider, you must inform the service provider directly and it will be your personal responsibility to do so.
-
-When you are using the chat features in our Application, you will provide us with the phone numbers of our Application users stored on your mobile phonebook to enable you in using our chat features and for other internal purposes.
+We collect information which identifies or can be used to create your profile in the apps, includes your name, phone number, and your ages.
 
 **THE USE OF OTHER INTELLECTUAL PROPERTY**
 
@@ -116,25 +86,6 @@ Whether you are a user or a service provider or otherwise provide Personal Infor
 6. to facilitate business asset transactions (which may extend to any mergers, acquisitions or asset sales) involving us and/or any of our affiliates; and
 7. to enable us to comply with our obligations under any applicable law, including but not limited to responding to regulatory enquiries, investigations or directives, complying with regulatory filing, reporting, and licensing requirements, and conducting audit checks, due diligence and investigations.
 
-**SHARING OF LOCATION WHICH WE COLLECT**
-
-We may disclose to, allow access to or share with affiliates and other parties your Personal Information for any of the following purposes as well as for such other purposes as are permitted by applicable law:
-
-1. where you are a user, for the purpose of enabling a service provider, to perform or deliver a service;
-2. where you are a service provider, for the purpose of enabling a user to request or receive a service from you;
-3. where required or authorised by applicable law (including but not limited to responding to regulatory enquiries, investigations or directives, or complying with statutory or regulatory filing and reporting, and licensing requirements), for the purpose so specified in that applicable law;
-4. where instructed, requested, required or authorised by the government authorities, for the purpose as specified in the government policy, regulations or applicable law;
-5. where there is any form of legal proceeding between you and us, or between you and another party, in connection with, or relating to the services, for the purposes of that legal proceeding;
-6. in relation to any verification as we or other third party may consider necessary before the service provider provide you with the services or we register you as a user, including for KYC and credit scoring;
-7. where we enable our services in third parties&#39; platform, (i) to assist us in obtaining your Personal Information and/or (ii) to register you or allow you to use our services from such platforms. In an emergency concerning your safety (whether you are a user or a service provider) for the purposes of dealing with that emergency;
-8. in a situation concerning your health or public interest (whether you are a user or a service provider), we may share your Personal Information to the government authorities and/or other institutions that may be appointed by the government authorities or have a cooperation with us, for the purposes of contact tracing, supporting government initiatives, policies or programs, public safety and any other purposes reasonably needed;
-9. in connection with, any merger, sale of company assets, consolidation or restructuring, financing or acquisition of all or a portion of our business by or into another company, for the purposes of such a transaction (even if the transaction is eventually not proceeded with);
-10. in connection with insurance claim, we will share your Personal Information for the purpose of processing the insurance claim to the insurance company that we engage or have collaboration with;
-11. to third parties (including our agents, vendors, suppliers, contractors, partners and any others who provide services to us or you, perform functions on our behalf, or whom we enter into commercial collaboration with) for or in connection with the purposes for which such third parties are engaged, to perform certain disclosure to the relevant third parties which are technically required to process your transaction or for the purposes of our collaboration with such third parties (as the case may be), which may include allowing such third parties to introduce or offer products or services to you, authenticate you or connect with your Account, or conducting other activities including marketing, research, analysis and product development; and
-12. where we share Personal Information with affiliates, we will do so for the purpose of them helping us to provide the Application, to operate our business (including, where you have subscribed to our mailing list, for direct marketing purposes), or for the purpose of them conducting data processing on our behalf. For example, a Akhlaq Chat Affiliate in another country may process and/or store your Personal Information on behalf of the Akhlaq Chat group company in your country. All of our affiliates are committed to processing the Personal Information that they receive from us in line with this Privacy Policy and applicable law.
-13. Where it is not necessary for the Personal Information to be associated with you, we will use reasonable endeavors to remove the means by which the Personal Information can be associated with you as an individual before disclosing or sharing such information.
-14. Other than as provided for in this Privacy Policy, we may disclose or share your Personal Information if we notify you and we have obtained your consent for the disclosure or sharing.
-
 **RETENTION OF PERSONAL INFORMATION**
 
 Your Personal Information will only be held for as long as it is necessary to fulfill the purpose for which it was collected, or for as long as such retention is required or authorised by Applicable Law. We shall cease to retain Personal Information, or remove the means by which the Personal Information can be associated with you as an individual, as soon as it is reasonable to assume that the purpose for which that Personal Information was collected is no longer being served by retention of Personal Information and retention is no longer necessary for legal or business purposes.
@@ -147,13 +98,9 @@ Subject to the applicable law, you may request us for access to and/or the corre
 
 We reserve the right to refuse your requests for access to, or to correct, some or all of your Personal Information in our possession or control if permitted or required under any applicable law. This may include circumstances where the Personal Information may contain references to other individuals or where the request for access or request to correct is for reasons which we reasonably consider to be trivial, frivolous or vexatious.
 
-**STORAGE USER SECURITY**
+**WHERE WE STORE YOUR PERSONAL INFORMATION**
 
-When you are using our Application and services in other countries where our Application is also accessible (&quot;Designated Country&quot;), we may transfer your Personal Information from the origin country (&quot;Origin Country&quot;) to the Designated Country in order to enable and ensure smooth customer experience when you are using our Application abroad. In such case, we will ask for your consent to transfer your Personal Data from the Origin Country to the Designated Country in order to ensure compliance to the applicable laws and regulations.
-
-Your Personal Information may also be stored or processed outside of your country by our personnel who work for us in other countries, or by our third-party service providers, vendors, suppliers, partners, contractors or Affiliates.
-
-We will comply with the applicable laws and regulations and use all reasonable endeavors to ensure that our Affiliates abroad and all such third-party service providers provide a level of protection that is comparable to our commitments under this Privacy Policy.
+We store your personal data only on browser session, not in a database or etc.
 
 **SECURITY OF YOUR PERSONAL INFORMATION**
 
